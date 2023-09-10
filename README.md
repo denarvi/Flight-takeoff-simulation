@@ -55,7 +55,7 @@ above.
 
 ![](image4.png)
 
-![takeoff.mp4]
+![](takeoff.mp4)
 
 Figure 4Overall flight of the plane
 
