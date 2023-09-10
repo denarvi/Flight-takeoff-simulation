@@ -55,6 +55,8 @@ above.
 
 ![](image4.png)
 
+![takeoff.mp4]
+
 Figure 4Overall flight of the plane
 
 References:
@@ -63,8 +65,4 @@ References:
 
 <http://ksimek.github.io/2012/08/13/introduction/> - The Perspective Camera - An Interactive Tour
 
-All coding work done by Aravind Dendukuri
 
-Report written by Aravind Dendukuri
-
-Project discussed with Rasika Muralidharan and Ganesh Arkanath
